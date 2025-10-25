@@ -1,0 +1,102 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+h1 {
+
+    font-family: Arial, sans-serif;
+}
+
+#div1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.div3 {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 100px;
+
+    border-radius: 40px;
+
+
+}
+
+.div5 {
+    margin-left: 30px;
+}
+
+#div2 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-left: 30px;
+}
+
+#icon {
+    height: 30px;
+    width: 30px;
+    background: url(door_front_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg) no-repeat;
+    padding: 0%;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.icon1 {
+    height: 30px;
+    width: 30px;
+    margin-bottom: 0%;
+    margin-top: 29px;
+    margin-left: 106px;
+    background: url(door_open_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg) no-repeat;
+    margin-left: 250px;
+    cursor: pointer;
+}
+
+.div25 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+
+}
+
+.div4 {
+    display: none;
+}
+
+#remove {
+    border: 2px solid black;
+    border-radius: 40px;
+    width: 300px;
+}
+
+#para7 {
+    padding: 0%;
+    margin: 0%;
+}
+
+#first {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    /* gap:50px; */
+
+}
+
+
+.hide {
+    display: none;
+}
